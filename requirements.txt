@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+packaging==23.1
+python_gitlab==3.14.0
+Requests==2.31.0
+setuptools==68.0.0
